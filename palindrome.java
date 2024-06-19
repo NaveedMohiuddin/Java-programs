@@ -13,7 +13,6 @@ public class Main
 	   }
 	   if(s.equals(rev)){
 	    System.out.println("It is a palindrome");
-	       
 	   }
 	   else{
 	       System.out.println("It is not a palindrome");

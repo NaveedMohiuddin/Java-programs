@@ -6,10 +6,10 @@ public class Main
 		Scanner sc=new Scanner(System.in);
 		int decimal = sc.nextInt();
 		String binary = "";
-		int rem;
+		int remainder;
 		while(decimal>0){
-		    rem = decimal%2;
-		    binary=rem+binary;
+		    remainder = decimal%2;
+		    binary=remainder+binary;
 		    decimal=decimal/2;
 		}
 		System.out.println(binary);

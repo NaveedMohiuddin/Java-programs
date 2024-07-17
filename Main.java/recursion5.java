@@ -1,6 +1,6 @@
 // program to print the all substrings of a string
 import java.util.*;
-public class Main
+class Main
 {
 	public static void main(String[] args) {
 	    Scanner sc=new Scanner(System.in);

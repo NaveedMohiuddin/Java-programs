@@ -1,7 +1,7 @@
 //Program to find the index and count of pattern in string
 import java.util.*;
 
-public class Main
+class Main
 {
 	public static void main(String[] args) {
 	Scanner sc=new Scanner(System.in);
